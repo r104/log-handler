@@ -1,0 +1,1 @@
+2020-03-22T20:08:14.734+05:30  [INFO] com.logging.loggerLibrary.Main -  message
